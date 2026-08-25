@@ -23,4 +23,5 @@ display(type(c), target="div1")
 display(type(d), target="div1")
 display(type(e), target="div1")
 display(type(f), target="div1")
+display(f["name"], f["description"], sept =" ")
 

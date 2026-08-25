@@ -9,9 +9,9 @@ c = (6,7,11) #tuple
 d = {6,7,11} #set
 e = {'sapphire', 'sapphire', 'sapphire'} #set with string
 f = {
-    "name": "Mateo",
-    "age": 15,
-    "description": "odd"
+    "name" : "Mateo",
+    "age" : 15,
+    "description" : "fat"
 }
 
 display('The data type of x is', type(x), target="div1") #display output in div
@@ -23,5 +23,5 @@ display(type(c), target="div1")
 display(type(d), target="div1")
 display(type(e), target="div1")
 display(type(f), target="div1")
-display(f["name"], f["description"], sept =" ")
-
+display(f["name"], f["description"])
+ 
